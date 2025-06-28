@@ -38,6 +38,8 @@
 
 [An abridged history of computer display tech](https://youtu.be/oOdYrZPbHpA?si=ItVE1eG6qxGhdt0B)
 
+[The Dark History of Zip Files](https://youtu.be/1sV-3-vPx3I?si=MUMDwyn8uzIb7HhK)
+
 ---
 # Playlists
 [Computer Networking: A Top-Down Approach (Explained by the book's author)](https://youtube.com/playlist?list=PLByK_3hwzY3Tysh-SY9MKZhMm9wIfNOas&si=UW43QFmpFA7eegG_)
