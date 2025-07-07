@@ -45,3 +45,7 @@
 [Computer Networking: A Top-Down Approach (Explained by the book's author)](https://youtube.com/playlist?list=PLByK_3hwzY3Tysh-SY9MKZhMm9wIfNOas&si=UW43QFmpFA7eegG_)
 
 [Computer Networking: A Bottom-Up Approach](https://youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW&si=Ftn_yTYSqouOID0C)
+
+---
+# Interviews
+[Unix and Beyond: An Interview with Ken Thompson](https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson.html)
