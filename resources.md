@@ -47,5 +47,8 @@
 [Computer Networking: A Bottom-Up Approach](https://youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW&si=Ftn_yTYSqouOID0C)
 
 ---
-# Interviews
+# Interviews and Articles
 [Unix and Beyond: An Interview with Ken Thompson](https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson.html)
+[The Evolution of the Unix Time-sharing System](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/hist.html)
+[Advice from Doug Mcilroy](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/mdmpipe.html)
+[Dennis M. Ritchie](https://www.nokia.com/bell-labs/about/dennis-m-ritchie)
